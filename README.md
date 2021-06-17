@@ -3,6 +3,7 @@
 - [x] Login Error ✅ (ErrorVar)
 - [x] Logo img ✅ (Logo.png)
 - [x] Password Box Showing "*" ✅
+- [x] A Placeholder in User and Pass Entry ✅
 #
 - Free To Use in Your Scripts or Programs ✅
 - Edit (login) Function (Line19) ♻️
